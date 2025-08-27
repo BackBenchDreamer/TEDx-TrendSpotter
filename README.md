@@ -91,6 +91,46 @@ streamlit run app.py
 
 ***
 
+## Dependency Versions (as installed)
+
+The following versions are installed in the virtual environment:
+
+- transformers==4.55.4
+- sentence-transformers==2.2.2
+- torch==2.8.0
+- torchaudio==2.8.0
+- torchvision==0.23.0
+- langchain==0.0.335
+- langchain-community==0.0.38
+- pandas==2.3.2
+- numpy==1.26.4
+- scikit-learn==1.7.1
+- datasets==2.14.6
+- requests==2.31.0
+- beautifulsoup4==4.12.2
+- youtube-transcript-api==0.6.1
+- serpapi==0.1.5
+- streamlit==1.28.1
+- plotly==5.17.0
+- networkx==3.5
+- tqdm==4.67.1
+- pyyaml==6.0.2
+
+### Not Installed (please install manually if needed):
+- chromadb
+- matplotlib
+- seaborn
+- wordcloud
+- python-dotenv
+
+If you require any of the above, install them using pip:
+
+```bash
+pip install chromadb matplotlib seaborn wordcloud python-dotenv
+```
+
+***
+
 ## Budget-Friendly Architecture
 
 **Zero-Cost Core Components:**
