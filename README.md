@@ -1,7 +1,5 @@
 # TEDx-TrendSpotter (Agentic RAG with LangChain-Groq)
 
-***
-
 ## Project Overview
 
 TEDx-TrendSpotter is an advanced Retrieval-Augmented Generation (RAG) system featuring an **agentic AI workflow** built exclusively with LangChain's integration with Groq. This project harnesses cutting-edge language modeling powered by the **openai/gpt-oss-20b** model via Groq, delivering high intelligence, rapid response times, and cost-efficient inference at scale. It is designed to provide dynamic, context-aware information retrieval and generation, ideal for extracting insights from large datasets like TEDx talk transcripts using a flexible agent-based approach.
